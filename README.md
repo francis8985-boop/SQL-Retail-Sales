@@ -28,23 +28,7 @@ It was built as a hands-on practice project to strengthen my skills in data anal
 
 🧱Database Setup
 A database was created to store and manage the retail data.
-
-CREATE DATABASE RETAIL_PRICE_project;
-
-Create table retail_sales
-			(
-			transactions_id	INT,
-			sale_date	date,
-			sale_time	time,
-			customer_id	INT,
-            gender VARCHAR(15),	
-			age	 INT,
-            category VARCHAR(15),
-			quantiy	int,
-            price_per_unit	float,
-			cogs	float,
-			total_sale float
-);
+<img width="462" height="423" alt="image" src="https://github.com/user-attachments/assets/0eb629ca-5301-43fd-82e5-bde0703ab5b7" />
 
 🧹 Data Cleaning
 Before analysis, the dataset was checked for:
